@@ -1,4 +1,7 @@
-# api documentation for  [hypher (v0.2.5)](https://github.com/bramstein/Hypher#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-hypher.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hypher) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hypher.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hypher)
+# npmdoc-hypher
+
+#### basic api documentation for  [hypher (v0.2.5)](https://github.com/bramstein/Hypher#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-hypher.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hypher) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hypher.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hypher)
+
 #### A fast and small hyphenation engine
 
 [![NPM](https://nodei.co/npm/hypher.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/hypher)
@@ -65,7 +68,8 @@
     "scripts": {
         "test": "vows"
     },
-    "version": "0.2.5"
+    "version": "0.2.5",
+    "bin": {}
 }
 ```
 
